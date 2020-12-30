@@ -1,4 +1,10 @@
-﻿using System;
+/*Binary Sudoku is a sudoku like game that is played on a 9*9 board, where there are randomly generated pieces whose elements are either 0’s or 1’s.
+The goal of the game is to place randomly generated pieces on the board to fill rows, columns or blocks to get a 9 digit binary number.
+This number is then converted to its decimal equivalent and added to the score.*/
+
+
+
+using System;
 
 namespace prooje2new
 {
